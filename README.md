@@ -1,4 +1,4 @@
-# Home Connect Dishwasher Plugin for Domoticz
+# Connect Dishwasher Plugin for Domoticz
 
 A Domoticz plugin that monitors the status of a Bosch, Siemens, or Neff dishwasher through the Home Connect API.
 
